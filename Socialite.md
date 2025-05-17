@@ -1,5 +1,5 @@
 <div class='artist' style='top:30px;right:100px;'>
-[v0.1.0]()
+[v0.1.0](https://github.com/IP-DND-Resources/Origin-Socialite)
 </div>
 
 <div class='artist' style='top:40px;right:100px;'>
